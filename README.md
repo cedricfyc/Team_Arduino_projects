@@ -8,4 +8,4 @@ Arduino Projects I've tried with friends/collaborators
 ## Beginner Projects <a name="chap1"></a>
 ## LED Shooting Game <a name="chap1.1"></a>
 - Inspirations
-      - [Servo Motor Basics with Arduino](https://docs.arduino.cc/learn/electronics/servo-motors/)
+  - [Servo Motor Basics with Arduino](https://docs.arduino.cc/learn/electronics/servo-motors/)

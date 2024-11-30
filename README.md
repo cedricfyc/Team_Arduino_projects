@@ -9,3 +9,4 @@ Arduino Projects I've tried with friends/collaborators
 ## LED Shooting Game <a name="chap1.1"></a>
 - Inspirations
   - [Servo Motor Basics with Arduino](https://docs.arduino.cc/learn/electronics/servo-motors/)
+  - [LCD Display Basics with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays/)

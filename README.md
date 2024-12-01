@@ -18,3 +18,5 @@ To add description, etc. here
   - [Servo Motor Basics with Arduino](https://docs.arduino.cc/learn/electronics/servo-motors/) 
   - [LCD Display Basics with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays/)
   - [Arduino Temperature Humidity Sensor](https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor)
+  - [Using a 4 Digit & 7 Segment Display With Arduino](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
+  - [Arduino to Arduino Serial Communication](https://robotic-controls.com/learn/arduino/arduino-arduino-serial-communication)

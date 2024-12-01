@@ -10,5 +10,5 @@ Arduino Projects I've tried with friends/collaborators
 - Inspirations
   - [Servo Motor Basics with Arduino](https://docs.arduino.cc/learn/electronics/servo-motors/)
   - [LCD Display Basics with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays/)
-  - [Joystick Mouse Control](https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/)
+  - [Arduino Joystick Control](https://arduinogetstarted.com/tutorials/arduino-joystick)
   - [Stepper Motor Basics](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)

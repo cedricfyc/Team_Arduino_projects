@@ -28,8 +28,8 @@ To add description, etc. here
   **IMPORTANT NOTICE**: When setting up the circuit switch the yellow and the (not pink) purple wires (the author below messed up the circuit diagram).
   - [Using a 4 Digit & 7 Segment Display With Arduino](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
  
-  **For non Arduino Unos**
-  - [Arduino to Arduino Serial Communication](https://robotic-controls.com/learn/arduino/arduino-arduino-serial-communication)
+  
+  - **For non Arduino Unos**: [Arduino to Arduino Serial Communication](https://robotic-controls.com/learn/arduino/arduino-arduino-serial-communication)
 
   - [Arduino-Arduino Communication](https://forum.arduino.cc/t/send-a-boolean-to-another-arduino/367142)
 

@@ -25,7 +25,7 @@ To add description, etc. here
 
   - [Arduino Temperature Humidity Sensor](https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor)
 
-  **IMPORTANT NOTICE**: When setting up the circuit switch the yellow and the (not pink) purple wires (the author above messed up my circuit diagram).
+  **IMPORTANT NOTICE**: When setting up the circuit switch the yellow and the (not pink) purple wires (the author below messed up the circuit diagram).
   - [Using a 4 Digit & 7 Segment Display With Arduino](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
  
   **For non Arduino Unos**
